@@ -1,0 +1,20 @@
+ *.yml linguist-language=Matlab
+*.html linguist-language=Matlab
+*.js linguist-language=Matlab
+*.xml linguist-language=Matlab
+*.css linguist-language=Matlab
+
+*.md linguist-language=Matlab
+
+*json linguist-language=Matlab
+*.c linguist-language=Matlab
+*.py linguist-language=Matlab
+*.f90 linguist-language=Matlab
+*.f linguist-language=Matlab
+*.m linguist-language=Matlab
+
+*.dat linguist-language=Matlab
+*.pdf linguist-language=Matlab
+*.eps linguist-language=Matlab
+*.jpg linguist-language=Matlab
+*.png linguist-language=Matlab
